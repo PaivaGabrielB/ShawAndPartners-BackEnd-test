@@ -10,27 +10,9 @@ npm install
 npm start
 ```
 
-Runs on localhost:3000 by default but can be configured using the `PORT` environment variable.
+Runs on localhost:3000 by default.
 
 ### Running tests
 
 ```
 npm test
-
-# Watch repo
-npm run test:watch
-```
-
-### Running in development
-
-```
-npm run dev
-```
-
-### Linting
-```
-npm run lint
-
-# fix issues
-npm run lint:fix
-```
